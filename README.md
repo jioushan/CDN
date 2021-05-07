@@ -10,8 +10,8 @@ https://photo.riyi.xyz/images/2021/01/30/4.png
 
 (china
 
-https://cdn.riyi.xyz/img/2.jpg
+https://cdn.riyi.xyz/img/4.jpeg
 
-https://fire.riyi.xyz/img/2.JPG
+https://fire.riyi.xyz/img/4.jpeg
 
 
