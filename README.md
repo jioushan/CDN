@@ -4,14 +4,13 @@ jsDeliver CDN
 
 #备注：logo访问
 
-avatar: https://cdn.jsdelivr.net/gh/jioushan/CDN@1.1/4.png
+avatar: https://cdn.jsdelivr.net/gh/jioushan/CDN@1.4/4.png
 
-https://photo.riyi.xyz/images/2021/01/30/4.png
+https://cdn.jioushan.top/img/4.jpeg
 
 (china
 
-https://cdn.riyi.xyz/img/4.jpeg
 
-https://fire.riyi.xyz/img/4.jpeg
+https://cdn2.jioushan.top/LightPicture/2022/03/f4101159399e392f.png
 
 
