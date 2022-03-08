@@ -20,4 +20,4 @@ https://cdn2.jioushan.top/LightPicture/2022/03/f4101159399e392f.png
 IPFS buck CDN
 
 https://ipfs.io/ipfs/QmPf7ZTGmV2EjA21SGDpQVmAf6CPcKfzMcbTfFaUXAzRwV
-https://ipfs.io/ipfs/QmPf7ZTGmV2EjA21SGDpQVmAf6CPcKfzMcbTfFaUXAzRwV
+https://cloudflare-ipfs.com/ipfs/QmPf7ZTGmV2EjA21SGDpQVmAf6CPcKfzMcbTfFaUXAzRwV/photo
